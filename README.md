@@ -1,5 +1,4 @@
 # Jest-Test-Nodejs
-<img align="right" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheussla)](https://github.com/matheussla)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-abreu-087768182)](https://www.linkedin.com/in/matheus-abreu-087768182)
