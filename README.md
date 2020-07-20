@@ -10,15 +10,15 @@
 - npm run dev / npm start
 - npm test
 
-<img align="right" alt="GIF" src="http://pluspng.com/img-png/nodejs-png-javascript-node-js-nodejs-icon-download-png-512.png" width="200" height="200"/>
-
-<img align="right" alt="GIF" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width="200" height="200"/>
+<img align="right" alt="GIF" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_wordmark_logo_icon_146410.png" width="100" height="100"/>
+<img align="right" alt="GIF" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width="100" height="100"/>
+<img align="right" alt="GIF" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nodemon_icon_130299.png" width="100" height="100"/>
 
 ## Stack
-- Node.Js 12
+- Node.Js 12 
 - Express
 - Nodemon
-- Jest
+- Jest 
 - Supertest
 
 ###### Matheus Abreu
